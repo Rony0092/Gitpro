@@ -1,1 +1,3 @@
 Hello Git.
+
+Hello new style of running projects.
